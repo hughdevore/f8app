@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_313f679f1169d8e37eefd46c1ceea499e1afee94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.22.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d5cbc9214ee567ea6ef56fb2707d48e58d240fc2">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.22.1_01989d24ebd7bee119da908ceb5c16cd879e65e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_cd26016e40792cd536ff20bc76525b79295e406a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-11.0.4_e5c5c2b0248ba61d5e6c8e93723cf71e1651ebe4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/exploded-aar/me.leolin/ShortcutBadger/1.1.8/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="531c33d3697000a05e9493a2d0f09ba41fa114d3">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/me.leolin-ShortcutBadger-1.1.8_e3edcb3b53fbb6f4ae807bd205c072477fab25ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_a81d4afb619eca88938a556537a8bafe364e9f53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_08f99a7ffef107e1f0360b2702b14939c3965e12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_e36aa0e7b31dbbbe7996da79245b0b46d7d9f76d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_517ed13620875f4b8362f935aa94a238dd663be8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_801bc431fe407d11868985515cd2112cb22b449a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/exploded-aar/com.android.support/customtabs/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-25.0.0_1e71f6b24b8f77ae807f4f973cf25967520927fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_f9c14584a37c8e8d4120056677222186ee99cd0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_b69e98973ec163cdb0061eb66a2435cf5d5528f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/exploded-aar/F82017/react-native-native-video-player/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="45d80fec5f63ccab3eae9b57fc153c5a818103e2">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/F82017-react-native-native-video-player-unspecified_2b0f22f5a60176f6bc8635bd79f93091687b3584.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-11.0.4_3945d64b6314a0face7a62324c529cc4538ccfc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-11.0.4_ebfa10e3b5b5df2872980f7d0b4d176f583c5b13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-11.0.4_7a1fbe20000ade0444d4e93011b3173f257ba07c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-11.0.4_6207a73b2fc161f0693e2e07dcc4d127ba82a9ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_86ff266d5eabea136c4b1c3358a1557bd2df397c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_ef463d66689bf426916d8f01ef9619935aa82f3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_0fd4bda6772ee3bcd1a3528f2e95e4586f126f7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_528aa6d5b399f73629f852340a8448f9302a5406.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af9665a44df26b4098e24c934c1109507845ef5e">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.44.0_179e33496ed5f34169ed14da0a0f2de3099f50b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_9dbbf86890f9e8d083a5cc8d865830d7d9148909.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/exploded-aar/F82017/react-native-fbsdk/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6a0ab5415a62363e83dd4beb173cec348d69a582">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/F82017-react-native-fbsdk-unspecified_86efa32ec0916129b8b2d7bfdfb1e8fa763b3e69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_92328c90e3c0b9ac38796a3cf5fad47810d7e794.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_08996c847ab597c74e8e2e4b6289526d2268be25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/exploded-aar/F82017/react-native-push-notification/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c9b6a0e47111c51a6c8f8b30e5cb323c03897525">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/F82017-react-native-push-notification-unspecified_058df7215489e8ecd1ce6499b4f1a7b52b242cd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_1ca717717e2ec43d48d41615da6692eaa8f397d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_c46d1f9694e7e27326983ab72b63d14ac5a92c67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_1a1080dfff1369d498fc98c0e8ed38341eccf484.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/exploded-aar/F82017/react-native-photo-view/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="84b3eb73e4553d4614543e95933ecb8a4ebcd3b2">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/F82017-react-native-photo-view-unspecified_0a63783c6748fe81cbaa848b3c82be3e1f608723.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_112b75b8d453e02649077d76b59c556c1b9b22a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_2d527e4bc23678d2935870abe75f91bee2a31e08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.0.0_26cfe16e7d2a6407aa2cc75ab095b9a1be95ebb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_2e51796399fd33a37c0898f9ece04db27156f8a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_fb5a4940e3ea9df2bf94a423cc09928dbcedbbec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_0f27b63a23a07a1fd5e92697dc8114ca8da79a3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_48654f2352c767996c4ac330fe4d067ab29a7019.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/exploded-aar/me.relex/photodraweeview/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5ceac4d4c5f5559d813fb8e0419203a51b40462">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/me.relex-photodraweeview-1.0.0_0a462012c804c9789e8358eea0f98e04031d17be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/exploded-aar/F82017/react-native-linear-gradient/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b1de8f75805268154da5e88bb6195760b9d8966f">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/F82017-react-native-linear-gradient-unspecified_81fe6d39e1f2598bd250a5835cf0c39e7eb7a20d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_347a0ea5bff80a753cefd6a25be1f01d72a4fef2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_0d769e48d68a749684e9567069ab11bbbc277ac3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jjiaa/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_3ad4a291585d9792c3a584e36bc3f863efc94b35.jar" />
+    </item>
+
+</items>

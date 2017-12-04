@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/F82017.iml" filepath="$PROJECT_DIR$/F82017.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-fbsdk/android/react-native-fbsdk.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-fbsdk/android/react-native-fbsdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-linear-gradient/android/react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-linear-gradient/android/react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-native-video-player/android/react-native-native-video-player.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-native-video-player/android/react-native-native-video-player.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-photo-view/android/react-native-photo-view.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-photo-view/android/react-native-photo-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-push-notification/android/react-native-push-notification.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-push-notification/android/react-native-push-notification.iml" />
+    </modules>
+  </component>
+</project>

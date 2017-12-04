@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/jjiaa/github/f8app-staging/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/jjiaa/github/f8app-staging/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.0/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.0/res/xml/preferences.xml"
+    }
+]

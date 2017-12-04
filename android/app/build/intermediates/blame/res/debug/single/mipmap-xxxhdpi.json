@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/jjiaa/github/f8app-staging/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/jjiaa/github/f8app-staging/android/app/src/debug/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jjiaa/github/f8app-staging/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_notification.png",
+        "source": "/Users/jjiaa/github/f8app-staging/android/app/src/debug/res/mipmap-xxxhdpi/ic_notification.png"
+    },
+    {
+        "merged": "/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_notification.png",
+        "source": "/Users/jjiaa/git/f8app-staging/android/app/src/debug/res/mipmap-xxxhdpi/ic_notification.png"
+    },
+    {
+        "merged": "/Users/jjiaa/git/f8app-staging/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/jjiaa/git/f8app-staging/android/app/src/debug/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]
