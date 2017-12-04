@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/jjiaa/github/f8app-staging/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/jjiaa/github/f8app-staging/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jjiaa/github/f8app-staging/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi/ic_notification.png",
+        "source": "/Users/jjiaa/github/f8app-staging/android/app/src/main/res/mipmap-xxxhdpi/ic_notification.png"
+    }
+]
